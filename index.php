@@ -14,8 +14,8 @@
             <?php foreach($dischi as $disco){ ?>
                 <div class="album">           
                     <img src="<?php echo $disco['poster']?>" alt="Poster">              
-                    <h3><?php echo $disco["title"]?></h3>
-                    <h3><?php echo $disco["author"]?></h3>
+                    <h3 class="title"><?php echo $disco["title"]?></h3>
+                    <h3 class="author"><?php echo $disco["author"]?></h3>
                     <h4><?php echo $disco["year"]?></h4>           
                 </div>
             <?php } ?>
