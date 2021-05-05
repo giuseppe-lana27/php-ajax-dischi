@@ -1,5 +1,5 @@
 <header>
-      <div class="logo">
+    <div class="logo">
         <img src="img/download.png" alt="Spotify Logo">
-      </div>
-    </header>
+    </div>
+</header>

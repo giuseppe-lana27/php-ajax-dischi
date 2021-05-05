@@ -14,4 +14,4 @@
     <!-- /axios -->
     <link rel="stylesheet" href="css/style.css">
     <title>Dischi</title>
-  </head>
+</head>
